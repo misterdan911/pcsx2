@@ -1,0 +1,467 @@
+Private Nurse Walkthrough
+
+Version update:
+
+v1: Uploaded on 20-11-2012 with details on all endings
+v2: Uploaded om 10-10-2019, updated details on
+Maria special endings and impact of the rock-paper-scissors games.
+Also updated the links at the end.
+(thanks to a bro named SKBE SKBE for pointing out misses in v1)
+
+
+Table of Contents
+I.	Introduction
+II.	Production Information
+III.	Staff
+IV.	Cast
+V.	Paths and Walkthrough
+A.	Maria
+B.	Ayano
+C.	Mio
+D.	Neutral Ending
+VI.	Sources
+VII.	Disclaimer and appeal
+
+
+I.	Introduction
+
+The strangely dressed girl knocks on Rikido Hiroki窶冱 doorstep 
+as she smiles at him innocently. 
+"I'm a private nurse, and I am going to cure you!"
+Hiroki has always suffered from a disease which weakens him. 
+He does no more than go to school and come home, 
+accompanied by his childhood friend Ayano, 
+who loves to dote over him. 
+He lives alone, quietly suffering and enduring his disease. 
+
+But all of this changes with the arrival of Maria, 
+who is a 窶弃rivate Nurse窶 hired by Hiroki's mother. 
+Nurse Maria forces her way into Hiroki's sheltered existence, 
+promising to cure him for good. 
+Hiroki tries to make Maria leave because 
+he doesn't want to lose his carefree life. 
+However, no matter how hard he tries, she just won't leave.
+ 
+Hiroki decides to give her a one-week trial period. 
+If his condition improves within a week, 
+he'll let her stay with him for the whole month. 
+Unsure of what to make of this beautiful new intruder, 
+Ayano watches with conflicting emotions from the side-lines.
+Maria happily accepts his offer.
+Ayano silently watches Hiroki with mixed feelings.
+This is the beginning of a new lifestyle.
+
+
+II.	Production Information
+
+History: The original game was released by Angel Smile 
+in Japan in 2001. 
+The game was successful and was translated into English 
+and subsequently released by G-Collections in 2002. 
+The game was also released in Russian by Macho Studio and Triada.
+A PS2 port was released by DATAM Polystar in 2003 featuring 
+additional content.
+
+I personally hope to see the characters again someday... 
+in a new setup :)
+
+Releases:
+Japanese
+15-06-2001: Private Nurse- First Press Edition (PC)
+15-06-2001: Private Nurse- Regular Edition (PC)
+25-09-2003: Private Nurse-Maria- (PS2)
+26-12-2008: Private Nurse - Download Edition
+
+English
+20-11-2002: Private Nurse - Package Edition (PC)
+04-10-2005: Private Nurse - Download Edition (PC)
+
+Russian
+2004: Ljubovnye procedury (PC)
+2005: Private Nurse: Ljubovnye procedury (PC)
+
+
+III.	Staff
+
+Character Design: Konsu-Konsuke
+Scenario: JUN
+Artist/Graphic Supervisor: Konsu-Konsuke
+Sound Production: V.Hearts
+Composer: ARI and Twofive
+Staff: RMG Rainbow-Motion-Graphics (Opening and demo movie)
+Director: JUN and Konsu-Konsuke
+Produced By: AngelSmile
+
+
+IV.	Cast
+
+Rikido Hiroki: Hiroki has been sick all through his life. 
+Nobody knows the exact reason for his strange sickness, 
+though it seems to be as psychological as it is physical. 
+His life starts to change when Maria visits him 
+and promises to cure him in 30 days. 
+He is childhood friends with Ayano.
+
+Maria (Voiced by Emi Honi (Emi Motoi)): A legendary 
+"Private Nurse," reputed to be the best in the world, 
+above and beyond any practitioner in hospitals. 
+She is always smiling, and has an uncanny ability 
+to be kind and gentle while always getting her way. 
+She loves her work, but there is always time for a little TV!
+
+Miyamori Ayano (Voiced by Satomi Koorogi): Hiroki's 
+childhood friend. They have lived next to each other forever 
+and she is the only one who understands him. 
+She's an intelligent, athletic girl who treats 
+Hiroki as a person, not a sick boy.
+However, she is extremely tomboyish and has no patience. 
+Maria's arrival unsettles Ayano 
+and makes her re-examine her feelings. 
+
+Sasho Mio/ Aso Miharu (Voiced by Mioko Fujiwara): 
+The nurse at Hiroki's school. 
+He has gotten to know her because he spends 
+a lot of time there due to his illness. 
+She is always cold to everyone, 
+and seems to do nothing but sleep while she's at work. 
+It seems the only way to crack her shell is 
+to offer her something sweet to eat! 
+
+Yoshino and Yuno: Ladies of the Miyamori family. 
+Yoshino is the Mother and Yuko is the daughter.
+Both to see Ayano and Hiroki together. 
+Yuno is like her mother in her attitude.
+
+Perapera and Itome: 窶弋win Giant Private Nurses窶? 
+who act as replacement for Maria when she is away. 
+Perapera has a habit of talking very fast while 
+Itome seems to be sleeping all the time. 
+They are over 180 cm. tall.
+
+Juliet (Voiced by Sayaka Aoki): Another 窶弃rivate Nurse窶? 
+and the only colleague and friend of Maria. 
+
+Rikido Hiromi: Hiroki窶冱 mother. 
+She is a long-distance truck driver 
+and thus, is away from home most of the time. 
+
+Nishinomori: Hiroki窶冱 Childhood friend 
+who went to the same junior high as him. 
+His family runs a Japanese cuisine restaurant 
+where Hiroki often eats. He is bright and cheerful.
+
+Aoki Nao: Ayano窶冱 best friend 
+and member of the Basketball team.
+
+
+V.	Paths and Walkthrough
+
+There are a total of 4 endings in the game, 
+good endings for Maria, Ayano and Mio and one neutral ending. 
+Once you view all endings,
+you unlock a special scene at the end of Maria's route 
+and Maria窶冱 face appears on the title screen.
+Completing Maria窶冱 and Ayano窶冱 paths unlocks their 窶廣fter Diaries窶 
+which have several short stories and give more information
+on the story and on Maria.
+
+During the 30-day period, Ayano will play Jan-Ken-Pon 
+(Rock-Paper-Scissors) with you three times.
+The outcome slightly impacts additional elements of 
+Maria窶冱 and Ayano's story. I will detail more on this in their 
+respective routes below. Ayano draws randomly, 
+but it seems that the chances of her drawing rock
+first are high. I would also suggest you save before each game.
+
+The story is set in a span of 30 days 
+with 15-20 choices in each of the routes. 
+Also, while you can save at any point, 
+the game loads from the beginning of the day. 
+
+Detailed walkthrough as follows:
+
+Maria:
+
+Make sure you LOSE the rock-paper-scissors games. 
+Though you can still reach her endings even if you win.
+
+1st day
+I will tell her thanks, it's the right thing to do.
+I窶ｦ don't think it's bad
+
+Day 3
+I won't go, no matter what
+
+Day 4 
+I want to stay here longer and see the sunset.
+
+Day 5
+I think I'm alright today窶ｦ
+RPS # 1: I Lost
+
+Day 8
+I should go home by myself窶ｦ
+
+Day 9
+Yeah! I feel just as great as today's weather!!
+RPS # 2: I Won
+A miracle might happen窶ｦ Honestly tell her about your sickness.
+
+Day 10
+I'll go home because I promised Maria
+
+Day 12
+RPS # 3: I Won
+I'll relax in the park.
+
+Day 13 
+I have to give Nishinomori back his CD!!
+
+Day 14
+I won't go to school today.
+
+Day 15
+.....
+
+Day 17
+I'm afraid, but I tell her the truth
+
+Day 20
+I can't just wait for her like this any longer!
+
+You also get the following additional choices. 
+Selecting one set of choices leads 
+to the special ending of Maria. 
+The other choices lead to a normal ending only, 
+but they unlock additional CG窶冱.
+So, it窶冱 a good idea to use the save function, 
+you can load from the actual save point now
+
+Save 1 (For Maria窶冱 Normal Ending)
+
+Yes窶ｦof course!/ Yes窶ｦnot only tonight, but every night 
+: Yes窶ｦnot only tonight, but every night 
+
+Of Course it will!/ I hope it does, too. 
+: Of Course it will!
+
+窶ｦYou don't need to know./ Because you like me, right?
+: Because you like me, right?
+
+I do not look at the past. Only the future matters to me!/ 
+窶ｦ I am here today because of where I was yesterday. 
+: I do not look at the past. Only the future matters to me!
+
+........../I put my hands on her hips窶ｦ 
+: I put my hands on her hips窶ｦ
+
+
+Load Save 1 (For Maria Special Ending)
+Yes窶ｦof course!/ Yes窶ｦnot only tonight, but every night 
+: Yes窶ｦof course!
+
+Of Course it will!/ I hope it does, too. 
+: I hope it does, too. 
+
+窶ｦYou don't need to know./ Because you like me, right?
+: 窶ｦYou don't need to know.
+
+I do not look at the past. Only the future matters to me!/ 
+窶ｦ I am here today because of where I was yesterday. 
+: 窶ｦ I am here today because of where I was yesterday.
+
+........../I put my hands on her hips窶ｦ 
+: ..........
+
+
+Ayano
+
+Make sure you WIN the rock-paper-scissors games.
+
+1st day
+I will tell her thanks, it's the right thing to do.
+I don't feel too good窶ｦ I feel sick
+
+Day 3
+I won't go, no matter what
+
+Day 4
+I'm getting hungry. Shall we go home and have dinner?
+
+Day 5
+I think I'm alright today窶ｦ
+RPS # 1: I Won
+
+Day 8
+I should ask her to take me home because I'm tired.
+
+Day 9
+Yeah! I feel just as great as today's weather!!
+RPS # 2: I Won
+Tell her briefly about your sickness窶ｦ
+
+Day 10
+I'll go home because I promised Maria
+
+Day 12
+RPS # 3: I lost
+I'll go to town and look in some shops.
+
+Day 13
+I have to give Nishinomori back his CD!!
+
+Day 14 
+I won't go to school today.
+
+Day 15
+Alright窶ｦ
+
+Mio
+
+Make sure that you win as many times as you can.
+Also, the ending of Mio seems to be the last priority.
+If you choose a choice biased towards Maria or Ayano
+the game will go to that route.
+So don't make a mistake in the choices you select. 
+(Especially 9th day, 15th day, 17th day)
+
+1st day
+I'm not going to say it, no matter what!
+I don't feel too good窶ｦ I feel sick
+
+Day 3
+Go to the Nurse's office窶ｦ
+
+Day 4
+I want to stay here longer and see the sunset.
+
+Day 5
+I feel bad窶ｦ Yeah, I do feel bad!
+RPS # 1: I lost
+
+Day 8
+I should go home by myself窶ｦ
+
+Day 9
+Hmm窶ｦ I'm not feeling too good.
+RPS# 2: I lost
+A miracle might happen窶ｦ Honestly tell her about your sickness.
+
+Day 10
+I'll go out to have fun!
+
+Day 12
+I'll relax in the park.
+
+Day 13
+I have to give Nishinomori back his CD!!
+
+Day 14
+I'll go to school. I should be studying.
+
+Day 15
+Alright窶ｦ
+
+Day 17
+I'm afraid, but I tell her the truth
+
+Neutral Ending
+
+1st day
+I will tell her thanks, it's the right thing to do. 
+I don't feel too good窶ｦ I feel sick
+
+Day 3
+Go to the Nurse's office窶ｦ
+
+Day 4
+I'm getting hungry. Shall we go home and have dinner?
+
+Day 5
+I feel bad窶ｦ Yeah, I do feel bad!
+RPS # 1: I Won
+
+Day 8
+I should go home by myself窶ｦ
+
+Day 9
+Hmm窶ｦ I'm not feeling too good.
+RPS # 2: I Won
+Tell her briefly about your sickness窶ｦ
+
+Day 10
+I'll go out to have fun!
+
+Day 12
+RPS # 3: I Won
+
+Day 13
+I want to keep the promise, but thinking of Maria窶ｦ
+
+VI.	Sources and links
+
+1. G-collections: Bringing Japanese Bishoujo games to the west.
+Now they are fully merged into JAST USA, 
+their parent company: https://jastusa.com/
+old site (internet archive): www.g-collections.com
+
+2. The Visual Novel Database: Striving to be 
+窶徼he窶 VN database on the web www.vndb.org
+
+3. DATAM polystar: official developers and 
+publishers of the PS2 version
+old site (internet archive):  http://www.datam.co.jp/product/pn/ 
+
+4. Wikipedia Japan page: 
+http://ja.wikipedia.org/wiki/繝励Λ繧､繝吶?繝医リ繝ｼ繧ｹ
+
+5.FAN:NA: the doujin group started by the staff for this game
+http://fannatan.blog.fc2.com
+Old site (internet archive): www.fan-na.com
+
+6. AngelSmile: Original makers of the game. 
+Old site (internet archive): http://www.cd-bros.co.jp/coolcrew/
+
+7. Couple of Reference sites:
+http://www5e.biglobe.ne.jp/~mirai-m/privatenurse.htm
+http://c.m-space.jp/a/child.php?ID=the2ndstage&serial=84649 
+  
+   
+VII.	Disclaimer and Appeal
+
+I would like to thank JUN, Konsu-Konsuke 
+and everyone else who helped make this game. 
+You may drop by http://fannatan.blog.fc2.com
+and say hi to them. 
+They are active on their blog, pixiv and twitter
+
+I would like to thank G-collections for 
+bringing this game over.
+I would encourage you to visit the JAST USA site and 
+support the Visual-Novel world 
+by purchasing games that you like.
+
+I would like to thank Jesdynf for making 
+the guide for this game which helped me 
+when I first played it 4 years ago. 
+
+This guide was written by me 
+on the 10th U.S Anniversary of the game.
+Hope all of you out there enjoy this game as much as I did. 
+I can be reached by e-mail on my id: sidvanhalen@gmail.com
+Tell me how you feel about the game, 
+your favourite character, moments etc. 
+or general chit-chat about anime and visual novels etc.
+
+My Visual-Novel blog: 
+https://wordsandimagesandsounds.blogspot.com/
+My YouTube channel: 
+https://www.youtube.com/channel/UCCA2oHDeJ1-S0sYES7YIH4g?view_as=subscriber
+
+I updated this guide on 9th and 10th October 2019, 
+after discovering additional points about the game. 
+I will test it further when time permits.
+
+All copyrights of the game belong to their respective owners. 
+
+Enjoy one of the first and best Bishoujo game released in English.

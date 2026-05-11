@@ -1,181 +1,45 @@
-[    0.1509] Loaded translation file for language en-US
-[    0.1574] PCSX2 v2.4.0
-[    0.1575] Savestate version: 0x9a540000
-[    0.1575] 
-[    0.1575] 
-[    0.1575] Host Machine Init:
-[    0.1588]   Operating System = Microsoft Windows 10+
-[    0.1588]   Available RAM    = 3989 MB (3.90 GB)
-[    0.1588]   Physical RAM     = 7893 MB (7.71 GB)
-[    0.1588] 
-[    0.1588]   Processor        = Intel 11th Gen Core i5-11400H
-[    0.1588]   Core Count       = 6 cores
-[    0.1588]   Thread Count     = 12 threads
-[    0.1588]   Cluster Count    = 1 clusters
-[    0.1647]   Power Profile    = 'Balanced'
-[    0.1648]   Power States (min/max)
-[    0.1648]     AC             = 5% / 100%
-[    0.1648]     Battery        = 5% / 100%
-[    0.1648] 
-[    0.1650] CPU Extensions Detected:
-[    0.1651]   AVX AVX2 AVX512F
-[    0.1651] 
-[    0.1651] Graphics Adapters Detected:
-[    0.2218]   GPU              = NVIDIA GeForce GTX 1650 with Max-Q Design
-[    0.2218]   Driver Version   = 32.0.15.5599
-[    0.2218] 
-[    0.2231]   GPU              = Intel(R) UHD Graphics
-[    0.2237]   Driver Version   = 32.0.101.7082
-[    0.2238] 
-[    0.2244]   GPU              = Intel(R) UHD Graphics
-[    0.2244]   Driver Version   = 32.0.101.7082
-[    0.2245] 
-[    0.2255]   GPU              = Microsoft Basic Render Driver
-[    0.2255]   Driver Version   = 10.0.26100.7309
-[    0.2255] 
-[    0.2348] SDLInputSource: Using Controller DB from resources.
-[    0.5282] SDLInputSource: 850 gamepad mappings are loaded.
-[    0.5649] Scanning D:\Danu\Games\PS2 (recursively)
-[    0.6104] isoFile open ok: D:\Danu\Games\PS2\Silent Hill 2 - Director's Cut (Europe) (En,Fr,De,Es,It).iso
-[    0.6104]   Image type  = DVD
-[    0.6104]  * CDVD Disk Open: DVD, Single layer or unknown:
-[    0.6105]  * * Track 1: Data (Mode 1) (1865952 sectors)
-[    0.6177] GameDB: Has not been initialized yet, initializing...
-[    0.6397] Surface refresh rate: 144.14928 hz
-[    0.6729] GameDB: 12827 games on record (loaded in 55.27ms)
-[    1.3173] Current version: v2.4.0
-[    1.3173] Latest version: v2.6.3
-[    1.3174] Last checked version: 
-[    1.3174] Update needed.
-[    3.7110] (AutoUpdaterDialog) All HTTP requests done.
-[   49.0012] Loading BIOS...
-[   49.0060] Searching for a BIOS image in 'C:\Users\rafli\OneDrive\Dokumen\PCSX2\bios'...
-[   49.0084] BIOS Found: Europe  v01.60(04/10/2001)  Console 20011004-175839
-[   49.0087] Using BIOS 'C:\Users\rafli\OneDrive\Dokumen\PCSX2\bios\PS2 Bios 30004R V6 Pal.bin' (Europe  v01.60(04/10/2001)  Console 20011004-175839 Europe)
-[   49.0091] BIOS Found: Europe  v01.60(04/10/2001)  Console 20011004-175839
-[   49.0176] BIOS rom1 module not found, skipping...
-[   49.0179] BIOS rom2 module not found, skipping...
-[   49.0196] Opening CDVD...
-[   49.0204] isoFile open ok: D:\Danu\Games\PS2\Silent Hill 2 - Director's Cut (Europe) (En,Fr,De,Es,It).iso
-[   49.0204]   Image type  = DVD
-[   49.0204]  * CDVD Disk Open: DVD, Single layer or unknown:
-[   49.0204]  * * Track 1: Data (Mode 1) (1865952 sectors)
-[   49.0253] Disc changed to Silent Hill 2 - Director's Cut (Europe) (En,Fr,De,Es,It).iso.
-[   49.0254]   Name: Silent Hill 2 - Director's Cut
-[   49.0254]   Serial: SLES-51156
-[   49.0254]   Version: 1.02
-[   49.0254]   CRC: 6BBD4932
-[   49.0263] Loading game settings from 'C:\Users\rafli\OneDrive\Dokumen\PCSX2\gamesettings\SLES-51156_6BBD4932.ini'...
-[   49.0266] Applying settings...
-[   49.0275] [Unsafe Settings] Renderer is not set to Automatic. This may cause performance problems and graphical issues.
-[   49.0275] OSD [unsafe_settings_warning]:  Renderer is not set to Automatic. This may cause performance problems and graphical issues.
-[   49.0547] Reopening memory cards...
-[   49.0564] McdSlot 0 [File]: Mcd001.ps2 [8 MB, Formatted]
-[   49.0573] McdSlot 1 [File]: Mcd002.ps2 [8 MB, UNFORMATTED]
-[   49.0587] HLE Host: Set 'host:' root path to: D:\Danu\Games\PS2
-[   49.0587] 
-[   49.0591] EE/iR5900 Recompiler Reset
-[   49.3945] Opening GS...
-[   49.4099] Surface refresh rate: 144.14928 hz
-[   49.8099] VK_EXT_provoking_vertex is supported
-[   49.8100] VK_EXT_memory_budget is supported
-[   49.8100] VK_EXT_calibrated_timestamps is supported
-[   49.8100] VK_EXT_rasterization_order_attachment_access is NOT supported
-[   49.8100] VK_EXT_swapchain_maintenance1 is NOT supported
-[   49.8100] VK_EXT_full_screen_exclusive is supported
-[   49.8100] VK_KHR_driver_properties is supported
-[   49.8100] VK_EXT_attachment_feedback_loop_layout is supported
-[   49.8124] Read 1432 entries from 'C:\Users\rafli\OneDrive\Dokumen\PCSX2\cache\vulkan_shaders.idx'
-[   50.0530] Vulkan Graphics Driver Info:
-[   50.0530] Driver 0.405.2986
-[   50.0530] Vulkan 1.4.323
-[   50.0530] Conformance Version 1.4.0.0
-[   50.0530] 101.7082
-[   50.0530] Intel Corporation
-[   50.0530] Intel(R) UHD Graphics
-[   50.0569] Opening SPU2...
-[   50.0580] Creating Cubeb audio stream, sample rate = 48000, expansion = Disabled, buffer = 50, latency = 20, stretching enabled, driver = , device = 
-[   50.2933] Initializing Pad...
-[   50.2934] Initializing SIO2...
-[   50.2934] Initializing SIO0...
-[   50.2934] Opening DEV9...
-[   50.2988] Opening USB...
-[   50.2988] Opening FW...
-[   50.3105] VM subsystems initialized in 1309.81 ms
-[   51.9766] ELF Loading: cdrom0:\SLES_511.56;1, Game CRC = 6BBD4932, EntryPoint = 0x00100008
-[   53.5286] ELF cdrom0:\SLES_511.56;1 with entry point at 0x00100008 is executing.
-[   53.5287] ELF changed, active CRC 6BBD4932 (cdrom0:\SLES_511.56;1)
-[   53.5427] Found 2 game patches in SLES-51156_6BBD4932.pnach.
-[   53.5430] Applying core settings...
-[   53.5434] GameDB: Setting Speedhack 'eeCycleRate' to [mode=1]
-[   53.5434] GameDB: Enabled GS Hardware Fix: recommendedBlendingLevel to [mode=4]
-[   53.5434] Updating CPU configuration...
-[   53.6042] EE/iR5900 Recompiler Reset
-[   59.1497] UpdateVSyncRate: Mode Changed to PAL.
-[   59.1500] UpdateVSyncRate: Mode Changed to PAL.
-[   60.8253] Pad: DS2 Config Finished - P1/S1 - AL: Off - AB: Usable - VS: Disabled - VL: Disabled - RB: D (0x00000000)
-[   60.9444] Pad: DS2 Config Finished - P1/S1 - AL: On - AB: Locked - VS: Disabled - VL: Disabled - RB: D (0x00000000)
-[   61.1845] Pad: DS2 Config Finished - P1/S1 - AL: On - AB: Locked - VS: Normal - VL: Normal - RB: D (0x00000000)
-[   61.5844] Pad: DS2 Config Finished - P1/S1 - AL: On - AB: Locked - VS: Normal - VL: Normal - RB: D+A+P (0x0003FFFF)
-[   61.8247] Pad: DS2 Config Finished - P1/S1 - AL: On - AB: Locked - VS: Normal - VL: Normal - RB: D+A+P (0x0003FFFF)
-[   61.9647] Pad: DS2 Config Finished - P1/S1 - AL: On - AB: Locked - VS: Normal - VL: Normal - RB: D+A+P (0x0003FFFF)
-[   80.5043] Applying settings...
-[   80.5053] GameDB: Setting Speedhack 'eeCycleRate' to [mode=1]
-[   80.5053] GameDB: Enabled GS Hardware Fix: recommendedBlendingLevel to [mode=4]
-[  128.7843] OSD [SaveStateSlot1]: Saving state to slot 1...
-[  128.7996] MTVU speedhack is enabled, saved states may not be stable
-[  128.8067]   Saving SPU2
-[  128.8077]   Saving GS
-[  129.0163] OSD [SaveStateSlot1]: State saved to slot 1.
-[  141.1251] Setting vsync mode: Disabled (throttle allowed)
-[  145.4597] Setting vsync mode: Disabled
-[  185.8602] Setting vsync mode: Disabled (throttle allowed)
-[  188.6071] Setting vsync mode: Disabled
-[  193.0269] Setting vsync mode: Disabled (throttle allowed)
-[  193.9077] Setting vsync mode: Disabled
-[  227.9985] Possible old value used in COP2 code. If the game is broken, please report to https://github.com/pcsx2/pcsx2.
-[  228.0115] 171220  4BC66218 vmulx.xyz vf08,vf12,vf06x
-[  228.0116] 171224  4BC82A2C vsub.xyz vf08, vf05, vf08
-[  228.0116] 171228  4BC841EA vmul.xyz vf07, vf08, vf08
-[  228.0116] 17122c  4BC529AA vmul.xyz vf06, vf05, vf05
-[  228.0116] 171230  4B0739C1 vaddy.x vf07, vf07, vf07y
-[  228.0116] 171234  4B063181 vaddy.x vf06, vf06, vf06y
-[  228.0116] 171238  4B0739C2 vaddz.x vf07, vf07, vf07z
-[  228.0116] 17123c  4B063182 vaddz.x vf06, vf06, vf06z
-[  228.0116] 171240  4A0733BC vdiv Q, vf06x, vf07x
-[  228.0117] 171244  4A0003BF vwaitq
-[  228.0117] 171248 *4B0001A0 vaddq.x vf06,vf00,Q
-[  228.0117] 17124c =484B8000 cfc2	t3, Status
-[  228.0117] 171250  4A0002FF vnop
-[  228.0117] 171254  4A0002FF vnop
-[  228.0117] 171258  4A0603BD vsqrt Q, vf06x
-[  228.0117] 17125c  316B0020 andi	t3,t3, 0x0020
-[  228.0117] 171260  4A0003BF vwaitq
-[  228.0117] 171264  4BC0415C vmulq.xyz vf05,vf08,Q
-[  228.0117] 171268  55600001 bnel	t3, zero, ->$0x00171270
-[  228.0117] 17126c  4BC5433C vmove.xyz, vf05, vf08
-[  539.4875] OSD [SaveStateSlot1]: Saving state to slot 1...
-[  539.5096] MTVU speedhack is enabled, saved states may not be stable
-[  539.5178]   Saving SPU2
-[  539.5184]   Saving GS
-[  539.5225] Creating save state backup C:\Users\rafli\OneDrive\Dokumen\PCSX2\sstates\SLES-51156 (6BBD4932).01.p2s.backup...
-[  539.9808] OSD [SaveStateSlot1]: State saved to slot 1.
-[  549.9258] Possible old value used in COP2 code. If the game is broken, please report to https://github.com/pcsx2/pcsx2.
-[  549.9259] 18a40c *4BCB59FF vclip vf11xyz, vf11w
-[  549.9259] 18a410  4BF42B3C vmove.xyzw, vf20, vf05
-[  549.9259] 18a414  4BF60B3C vmove.xyzw, vf22, vf01
-[  549.9259] 18a418  4BF5333C vmove.xyzw, vf21, vf06
-[  549.9259] 18a41c =48489000 cfc2	t0, ClipFlag
-[  549.9259] 18a420  4BCC61FF vclip vf12xyz, vf12w
-[  549.9259] 18a424  3108003F andi	t0,t0, 0x003F
-[  549.9260] 18a428  11000042 beq	t0, zero, ->$0x0018A534
-[  549.9260] 18a42c  00000000 nop
-[  615.3766] BIOS Found: Europe  v01.60(04/10/2001)  Console 20011004-175839
-[  615.3791] BIOS Found: Europe  v02.00(14/06/2004)  Console 20040614-100914
-[  615.4003] BIOS Found: Japan   v01.00(17/01/2000)  Console 20000117-050310
-[  615.4055] BIOS Found: USA     v01.60(07/02/2002)  Console 20020207-164243
-[  659.7031] OSD [MemoryCardSave0]: Memory Card 'Mcd001.ps2' was saved to storage.
-[  916.8674] (VMManager) Pausing...
-[  916.8732] Add 867 seconds play time to SLES-51156 -> now 2112
-[  917.1320] Writing 9281700 bytes to 'C:\Users\rafli\OneDrive\Dokumen\PCSX2\cache\vulkan_pipelines.bin'
-[  942.0490] Releasing host memory for virtual systems...
+[    0.0494] Loaded translation file for language en-US
+[    0.0538] PCSX2 v2.4.0
+[    0.0538] Savestate version: 0x9a540000
+[    0.0538] 
+[    0.0538] 
+[    0.0538] Host Machine Init:
+[    0.0546]   Operating System = Microsoft Windows 10+
+[    0.0546]   Available RAM    = 1587 MB (1.55 GB)
+[    0.0546]   Physical RAM     = 7893 MB (7.71 GB)
+[    0.0546] 
+[    0.0546]   Processor        = Intel 11th Gen Core i5-11400H
+[    0.0546]   Core Count       = 6 cores
+[    0.0546]   Thread Count     = 12 threads
+[    0.0546]   Cluster Count    = 1 clusters
+[    0.0568]   Power Profile    = 'Balanced'
+[    0.0569]   Power States (min/max)
+[    0.0569]     AC             = 5% / 100%
+[    0.0569]     Battery        = 5% / 100%
+[    0.0569] 
+[    0.0570] CPU Extensions Detected:
+[    0.0570]   AVX AVX2 AVX512F
+[    0.0570] 
+[    0.0570] Graphics Adapters Detected:
+[    0.0764]   GPU              = NVIDIA GeForce GTX 1650 with Max-Q Design
+[    0.0765]   Driver Version   = 32.0.15.5599
+[    0.0765] 
+[    0.0771]   GPU              = Intel(R) UHD Graphics
+[    0.0772]   Driver Version   = 32.0.101.7082
+[    0.0772] 
+[    0.0775]   GPU              = Intel(R) UHD Graphics
+[    0.0775]   Driver Version   = 32.0.101.7082
+[    0.0775] 
+[    0.0778]   GPU              = Microsoft Basic Render Driver
+[    0.0778]   Driver Version   = 10.0.26100.8246
+[    0.0778] 
+[    0.0829] SDLInputSource: Using Controller DB from resources.
+[    0.2055] Scanning D:\Danu\Games\PS2 (recursively)
+[    0.2526] SDLInputSource: 850 gamepad mappings are loaded.
+[    0.2610] Surface refresh rate: 144.14928 hz
+[    0.7414] Current version: v2.4.0
+[    0.7414] Latest version: v2.6.3
+[    0.7414] Last checked version: 
+[    0.7414] Update needed.
+[    5.4786] WinHttpQueryDataAvailable() failed: 12017
+[   12.0435] Releasing host memory for virtual systems...
