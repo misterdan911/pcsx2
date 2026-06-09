@@ -1,45 +1,115 @@
-[    0.0494] Loaded translation file for language en-US
-[    0.0538] PCSX2 v2.4.0
-[    0.0538] Savestate version: 0x9a540000
-[    0.0538] 
-[    0.0538] 
-[    0.0538] Host Machine Init:
-[    0.0546]   Operating System = Microsoft Windows 10+
-[    0.0546]   Available RAM    = 1587 MB (1.55 GB)
-[    0.0546]   Physical RAM     = 7893 MB (7.71 GB)
-[    0.0546] 
-[    0.0546]   Processor        = Intel 11th Gen Core i5-11400H
-[    0.0546]   Core Count       = 6 cores
-[    0.0546]   Thread Count     = 12 threads
-[    0.0546]   Cluster Count    = 1 clusters
-[    0.0568]   Power Profile    = 'Balanced'
-[    0.0569]   Power States (min/max)
-[    0.0569]     AC             = 5% / 100%
-[    0.0569]     Battery        = 5% / 100%
-[    0.0569] 
-[    0.0570] CPU Extensions Detected:
-[    0.0570]   AVX AVX2 AVX512F
-[    0.0570] 
-[    0.0570] Graphics Adapters Detected:
-[    0.0764]   GPU              = NVIDIA GeForce GTX 1650 with Max-Q Design
-[    0.0765]   Driver Version   = 32.0.15.5599
-[    0.0765] 
-[    0.0771]   GPU              = Intel(R) UHD Graphics
-[    0.0772]   Driver Version   = 32.0.101.7082
-[    0.0772] 
-[    0.0775]   GPU              = Intel(R) UHD Graphics
-[    0.0775]   Driver Version   = 32.0.101.7082
-[    0.0775] 
-[    0.0778]   GPU              = Microsoft Basic Render Driver
-[    0.0778]   Driver Version   = 10.0.26100.8246
-[    0.0778] 
-[    0.0829] SDLInputSource: Using Controller DB from resources.
-[    0.2055] Scanning D:\Danu\Games\PS2 (recursively)
-[    0.2526] SDLInputSource: 850 gamepad mappings are loaded.
-[    0.2610] Surface refresh rate: 144.14928 hz
-[    0.7414] Current version: v2.4.0
-[    0.7414] Latest version: v2.6.3
-[    0.7414] Last checked version: 
-[    0.7414] Update needed.
-[    5.4786] WinHttpQueryDataAvailable() failed: 12017
-[   12.0435] Releasing host memory for virtual systems...
+[    0.0187] Loaded translation file for language en-US
+[    0.0199] PCSX2 v2.6.3
+[    0.0199] Savestate version: 0x9a550000
+[    0.0199] 
+[    0.0199] 
+[    0.0199] Host Machine Init:
+[    0.0199]   Operating System = Microsoft Windows 10+
+[    0.0199]   Available RAM    = 1656 MB (1.62 GB)
+[    0.0199]   Physical RAM     = 7893 MB (7.71 GB)
+[    0.0199] 
+[    0.0200]   Processor        = Intel 11th Gen Core i5-11400H
+[    0.0200]   Core Count       = 6 cores
+[    0.0200]   Thread Count     = 12 threads
+[    0.0200]   Cluster Count    = 1 clusters
+[    0.0211]   Power Profile    = 'Balanced'
+[    0.0211]   Power States (min/max)
+[    0.0211]     AC             = 5% / 100%
+[    0.0211]     Battery        = 5% / 100%
+[    0.0211] 
+[    0.0211] CPU Extensions Detected:
+[    0.0211]   AVX AVX2 AVX512F
+[    0.0211] 
+[    0.0211] Graphics Adapters Detected:
+[    0.0392]   GPU              = NVIDIA GeForce GTX 1650 with Max-Q Design
+[    0.0392]   Driver Version   = 32.0.15.5599
+[    0.0392] 
+[    0.0399]   GPU              = Intel(R) UHD Graphics
+[    0.0399]   Driver Version   = 32.0.101.7082
+[    0.0399] 
+[    0.0402]   GPU              = Intel(R) UHD Graphics
+[    0.0402]   Driver Version   = 32.0.101.7082
+[    0.0402] 
+[    0.0405]   GPU              = Microsoft Basic Render Driver
+[    0.0405]   Driver Version   = 10.0.26100.8328
+[    0.0405] 
+[    0.0424] SDLInputSource: Using Controller DB from resources.
+[    0.1286] Scanning D:\Danu\Games\PS2 (recursively)
+[    0.1989] WinHttp async function 0000000000000005 returned error 12030
+[    0.2017] SDLInputSource: 862 gamepad mappings are loaded.
+[    0.2094] Surface refresh rate: 144.14928 hz
+[    0.2095] Updater Error: Failed to download latest release info: -1
+[    0.2095] (AutoUpdaterDialog) All HTTP requests done.
+[    1.2679] Loading BIOS...
+[    1.2679] Searching for a BIOS image in 'C:\Users\rafli\OneDrive\Dokumen\PCSX2\bios'...
+[    1.2688] BIOS Found: Europe  v01.60(04/10/2001)  Console 20011004-175839
+[    1.2689] Using BIOS 'C:\Users\rafli\OneDrive\Dokumen\PCSX2\bios\PS2 Bios 30004R V6 Pal.bin' (Europe  v01.60(04/10/2001)  Console 20011004-175839 Europe)
+[    1.2692] BIOS Found: Europe  v01.60(04/10/2001)  Console 20011004-175839
+[    1.2730] BIOS rom1 module not found, skipping...
+[    1.2731] BIOS rom2 module not found, skipping...
+[    1.2732] Opening CDVD...
+[    1.2825] isoFile open ok: D:\Danu\Games\PS2\Silent Hill 2 - Director's Cut (Europe) (En,Fr,De,Es,It).iso
+[    1.2825]   Image type  = DVD
+[    1.2825]  * CDVD Disk Open: DVD, Single layer or unknown:
+[    1.2825]  * * Track 1: Data (Mode 1) (1865952 sectors)
+[    1.2894] GameDB: Has not been initialized yet, initializing...
+[    1.3188] GameDB: 12838 games on record (loaded in 29.43ms)
+[    1.3189] Disc changed to Silent Hill 2 - Director's Cut (Europe) (En,Fr,De,Es,It).iso.
+[    1.3189]   Name: Silent Hill 2 - Director's Cut
+[    1.3189]   Serial: SLES-51156
+[    1.3189]   Version: 1.02
+[    1.3189]   CRC: 6BBD4932
+[    1.3193] Loading game settings from 'C:\Users\rafli\OneDrive\Dokumen\PCSX2\gamesettings\SLES-51156_6BBD4932.ini'...
+[    1.3195] Applying settings...
+[    1.3200] [Unsafe Settings] Graphics API is not set to Automatic. This may cause performance problems and graphical issues.
+[    1.3200] OSD [unsafe_settings_warning]:  Graphics API is not set to Automatic. This may cause performance problems and graphical issues.
+[    1.3323] Reopening memory cards...
+[    1.3324] McdSlot 0 [File]: Mcd001.ps2 [8 MB, Formatted]
+[    1.3324] McdSlot 1 [File]: Mcd002.ps2 [8 MB, UNFORMATTED]
+[    1.3333] HLE Host: Set 'host:' root path to: D:\Danu\Games\PS2
+[    1.3333] 
+[    1.3335] EE/iR5900 Recompiler Reset
+[    1.5513] Opening GS...
+[    1.5553] Surface refresh rate: 144.14928 hz
+[    1.7158] VK_EXT_provoking_vertex is supported
+[    1.7158] VK_EXT_memory_budget is supported
+[    1.7158] VK_EXT_calibrated_timestamps is supported
+[    1.7158] VK_EXT_rasterization_order_attachment_access is NOT supported
+[    1.7158] VK_EXT_swapchain_maintenance1 is NOT supported
+[    1.7158] VK_EXT_full_screen_exclusive is supported
+[    1.7159] VK_KHR_driver_properties is supported
+[    1.7159] VK_EXT_attachment_feedback_loop_layout is supported
+[    1.7165] Read 67 entries from 'C:\Users\rafli\OneDrive\Dokumen\PCSX2\cache\vulkan_shaders.idx'
+[    1.8409] Vulkan Graphics Driver Info:
+[    1.8410] Driver 0.405.2986
+[    1.8410] Vulkan 1.4.323
+[    1.8410] Conformance Version 1.4.0.0
+[    1.8410] 101.7082
+[    1.8410] Intel Corporation
+[    1.8410] Intel(R) UHD Graphics
+[    1.8438] Opening SPU2...
+[    1.8445] Creating Cubeb audio stream, sample rate = 48000, expansion = Disabled, buffer = 50, latency = 20, stretching enabled, driver = , device = 
+[    1.9568] Initializing Pad...
+[    1.9569] Initializing SIO2...
+[    1.9569] Initializing SIO0...
+[    1.9569] Opening DEV9...
+[    1.9608] Opening USB...
+[    1.9608] Opening FW...
+[    1.9716] VM subsystems initialized in 705.33 ms
+[    2.7158] ELF Loading: cdrom0:\SLES_511.56;1, Game CRC = 6BBD4932, EntryPoint = 0x00100008
+[    4.2891] ELF cdrom0:\SLES_511.56;1 with entry point at 0x00100008 is executing.
+[    4.2892] ELF changed, active CRC 6BBD4932 (cdrom0:\SLES_511.56;1)
+[    4.2897] Found 2 game patches in SLES-51156_6BBD4932.pnach.
+[    4.2898] Applying core settings...
+[    4.2904] GameDB: Setting Speedhack 'eeCycleRate' to [mode=1]
+[    4.2904] GameDB: Enabled GS Hardware Fix: recommendedBlendingLevel to [mode=4]
+[    4.2903] Updating CPU configuration...
+[    4.3360] EE/iR5900 Recompiler Reset
+[    9.1386] (VMManager) Pausing...
+[   18.1621] (VMManager) Resuming...
+[   18.8991] UpdateVSyncRate: Mode Changed to PAL.
+[   18.8993] UpdateVSyncRate: Mode Changed to PAL.
+[   20.4555] (VMManager) Pausing...
+[   24.2087] Add 9 seconds play time to SLES-51156 -> now 2121
+[   24.3601] Skipping updating pipeline cache 'C:\Users\rafli\OneDrive\Dokumen\PCSX2\cache\vulkan_pipelines.bin' due to no changes.
+[   24.4065] Releasing host memory for virtual systems...
